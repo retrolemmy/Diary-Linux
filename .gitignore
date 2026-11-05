@@ -1,0 +1,4 @@
+diary
+*.o
+diary.desktop.tmp
+compile_flags.txt

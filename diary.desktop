@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Diary
+GenericName=Journal
+Comment=A simple one-page-per-day journal
+Exec=diary
+Icon=diary
+Terminal=false
+Categories=Office;Utility;
+Keywords=journal;diary;notes;
